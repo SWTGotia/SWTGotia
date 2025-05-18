@@ -29,13 +29,10 @@ Email Me 👉 ✉️ **swtgotia@gmail.com** For Collaboration/Project or Anythin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
 
 ## 🌐 Socials:
-[![Facebook](https://www.facebook.com/share/1BwszJY75T/)]
+[![Facebook](https://www.facebook.com/share/1BwszJY75T/)Quora(https://www.quora.com/profile/Aza-Har-4?ch=10&oid=3015725130&share=e9a7cd73&srid=5iWFWm&target_type=user)]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
